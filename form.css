@@ -1,0 +1,35 @@
+div {
+  text-align: center;
+}
+h1 {
+  font-style: italic;
+}
+div p {
+  font-size: 17px;
+  font-style: oblique;
+  justify-content: center;
+}
+#email {
+  font-size: 20px;
+}
+#send {
+  font-size: 20px;
+  background-color: blue;
+  color: aliceblue;
+}
+#check {
+  display: flex;
+}
+.kan {
+  border: 2px dotted;
+  background-color: rgb(211, 221, 230);
+  justify-content: center;
+  width: 600px;
+  height: 300px;
+  align-items: center;
+  margin: 180px;
+  margin-left: 300px;
+}
+body {
+  background-color: blanchedalmond;
+}
